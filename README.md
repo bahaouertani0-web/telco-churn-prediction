@@ -42,7 +42,7 @@ telco-churn-prediction/
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/telco-churn-prediction.git
+git clone https://github.com/bahaouertani0-web/telco-churn-prediction.git
 cd telco-churn-prediction
 
 python -m venv .venv
